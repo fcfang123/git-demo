@@ -16,5 +16,6 @@ public class test {
         System.out.println("5");
         System.out.println("5");
         System.out.println("5");
+        System.out.println("5");System.out.println("5");System.out.println("5");System.out.println("5");
     }
 }
